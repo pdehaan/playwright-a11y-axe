@@ -1,0 +1,32 @@
+{
+  "name": "playwright-a11y-axe",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bin": "cli.js",
+  "bugs": {
+    "url": "https://github.com/pdehaan/playwright-a11y-axe/issues"
+  },
+  "dependencies": {
+    "axe-puppeteer": "^1.1.0",
+    "fs-extra": "^9.0.0",
+    "playwright": "^0.13.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/playwright-a11y-axe#readme",
+  "keywords": [
+    "a11y",
+    "accessibility",
+    "axe",
+    "axe-core",
+    "playwright"
+  ],
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/playwright-a11y-axe.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
