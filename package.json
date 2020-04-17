@@ -1,6 +1,6 @@
 {
   "name": "playwright-a11y-axe",
-  "description": "",
+  "description": "Running axe-core a11y linter via Playwright",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
   "bin": "cli.js",
