@@ -10,7 +10,7 @@
   "dependencies": {
     "axe-puppeteer": "^1.1.0",
     "fs-extra": "^9.0.0",
-    "playwright": "^0.13.0"
+    "playwright": "^1.35.1"
   },
   "devDependencies": {},
   "homepage": "https://github.com/pdehaan/playwright-a11y-axe#readme",
